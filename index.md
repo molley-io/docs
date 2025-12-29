@@ -1,25 +1,23 @@
 ---
-layout: default
-title: Molley Docs
-stylesheets:
-  - /assets/site.css
-head_inject:
-  - '<meta name="theme-color" content="#000000">'
-inline_scripts:
-  - |
-    console.log("Inline scripts run after the page content renders.");
-scripts:
-  - src: https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js
-    defer: true
-  - inline: |
-      document.addEventListener("DOMContentLoaded", () => {
-        mermaid.initialize({ startOnLoad: true });
-      });
-body_end_inject:
-  - '<div id="docs-root"></div>'
+layout: home
+
+hero:
+  name: Molley
+  text: Documentation
+  tagline: Build better applications with Molley
+  actions:
+    - theme: brand
+      text: Get Started
+      link: /guide/
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/Molley-io
+
+features:
+  - title: Fast & Modern
+    details: Built with modern tools and best practices for optimal performance
+  - title: Developer Friendly
+    details: Comprehensive API documentation and examples
+  - title: Open Source
+    details: Community-driven development and transparent roadmap
 ---
-
-# Welcome
-
-This repository is configured as a GitHub Pages site powered by Jekyll.  
-Use the front matter above as a reference for injecting custom scripts, inline code, or HTML blocks into the generated output.
