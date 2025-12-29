@@ -17,5 +17,3 @@ To get started with Molley, follow these steps:
 ## Next Steps
 
 - [Installation Guide](/guide/installation)
-- [API Reference](/api/)
-- [Examples](/examples/)

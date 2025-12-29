@@ -20,7 +20,7 @@ Start the development server:
 npm run docs:dev
 ```
 
-Visit <http://localhost:5173> to preview changes.
+Visit `http://localhost:5173` to preview changes.
 
 ## Build
 

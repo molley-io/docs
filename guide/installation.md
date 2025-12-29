@@ -51,5 +51,3 @@ Your application should now be running at `http://localhost:3000`.
 ## Next Steps
 
 - [Getting Started Guide](/guide/)
-- [Configuration](/guide/configuration)
-- [API Reference](/api/)
