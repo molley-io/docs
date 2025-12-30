@@ -79,7 +79,7 @@ export default defineConfig({
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Molley-io' }
+      { icon: 'github', link: 'https://github.com/molley-io/docs' }
     ],
     footer: {
       message: 'Built for solo entrepreneurs, sales teams, and product builders.',
