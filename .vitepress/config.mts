@@ -46,22 +46,18 @@ export default defineConfig({
             { text: 'Feature Ideas', link: '/features/feature-ideas' },
             { text: 'Feature Kanban', link: '/features/feature-kanban' },
             { text: 'Requirements', link: '/features/requirements' },
-            { text: 'Bug Tracking', link: '/features/bugs' }
+            { text: 'Bug Tracking', link: '/features/bugs' },
+            { text: 'Feedback Forms', link: '/features/feedback-forms' }
           ]
         },
         {
           text: 'Growth & Marketing',
           items: [
+            { text: 'Social Outreach', link: '/features/social-outreach' },
             { text: 'Outreach Tools', link: '/features/outreach-tools' },
             { text: 'Outreach Ideas', link: '/features/outreach-ideas' },
             { text: 'Marketing Plans', link: '/features/marketing-plans' },
             { text: 'CRM', link: '/features/crm' }
-          ]
-        },
-        {
-          text: 'Feedback',
-          items: [
-            { text: 'Feedback Forms', link: '/features/feedback-forms' }
           ]
         }
       ],

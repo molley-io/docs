@@ -23,6 +23,7 @@ Transform ideas into features, track progress, and manage your product lifecycle
 | [Feature Kanban](/features/feature-kanban) | Visual workflow management |
 | [Requirements](/features/requirements) | Break down features into tasks |
 | [Bug Tracking](/features/bugs) | Track and resolve issues |
+| [Feedback Forms](/features/feedback-forms) | NPS, CSAT, and custom forms |
 
 ## Growth & Marketing
 
@@ -35,14 +36,6 @@ Plan outreach, manage relationships, and grow your customer base.
 | [Outreach Ideas](/features/outreach-ideas) | Campaign brainstorming with AI |
 | [Marketing Plans](/features/marketing-plans) | Strategy documentation |
 | [CRM](/features/crm) | Customer relationship management |
-
-## Feedback Collection
-
-Collect user insights directly from your website or app.
-
-| Feature | Description |
-|---------|-------------|
-| [Feedback Forms](/features/feedback-forms) | NPS, CSAT, and custom forms |
 
 ## AI-Powered Throughout
 
