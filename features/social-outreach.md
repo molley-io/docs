@@ -1,338 +1,127 @@
 # Social Outreach
 
-Social Outreach helps you plan, create, and schedule content across multiple platforms with AI-powered content generation tailored to each platform's unique format and audience.
+## The Problem
 
-## Overview
+You've built something great. Now you need to tell the world.
 
-Social Outreach helps you:
+But launching across multiple platforms is chaos. Product Hunt has its own rules. LinkedIn wants professional storytelling. Twitter demands brevity. Reddit hates self-promotion. Each platform is a different game with different players.
 
-- **Plan communication arcs** — Strategic campaigns with phases and goals
-- **Generate platform-specific content** — AI creates content optimized for each platform
-- **Manage content calendars** — Visual scheduling across all channels
-- **Coordinate multi-platform launches** — Orchestrate Product Hunt, LinkedIn, Twitter, and more
+Most founders either:
+- **Spray and pray** — Post the same message everywhere and wonder why it falls flat
+- **Pick one platform** — Miss audiences on channels where they could have won
+- **Burn out** — Try to do everything manually and run out of steam before launch day
 
-## Key Concepts
+The result? Launches that fizzle. Content that doesn't resonate. Opportunities lost because you couldn't be everywhere at once with the right message.
+
+## The Solution
+
+Social Outreach treats your launch as a **coordinated campaign**, not a collection of random posts.
+
+Instead of thinking "I need to post on LinkedIn," you think "I'm telling a story across platforms, and each platform plays a specific role in that story."
+
+## How It Works
 
 ### Communication Arcs
 
-An **Arc** is a strategic communication campaign with a clear objective. Think of it as the story you're telling across platforms.
+An **Arc** is your campaign's narrative structure. It answers: *What story are we telling, and how does it unfold over time?*
 
-| Component | Description |
-|-----------|-------------|
-| **Name** | Campaign identifier |
-| **Objective** | What you're trying to achieve |
-| **Phases** | Stages of your campaign |
-| **Channels** | Platforms you'll use |
-| **Content** | Individual posts and submissions |
+Every successful launch follows a pattern:
+1. **Build anticipation** — Tease what's coming
+2. **Launch with impact** — Maximize day-one visibility
+3. **Sustain momentum** — Keep the conversation going
+4. **Convert interest** — Turn attention into action
 
-### Phases
+Social Outreach makes this structure explicit. You define your arc's objective, break it into phases, and the AI helps you execute each phase across every relevant platform.
 
-Phases break your arc into strategic stages:
+### Platform Intelligence
 
-- **Pre-launch** — Build anticipation
-- **Launch** — Maximum visibility
-- **Post-launch** — Sustain momentum
-- **Follow-up** — Nurture and convert
+Each platform has a different content model:
 
-Each phase has goals that guide content creation.
+| Platform | What Works | Why It Matters |
+|----------|------------|----------------|
+| **Product Hunt** | Single, polished launch submission | You get one shot. The tagline, description, and first comment must be perfect. |
+| **LinkedIn** | Multi-post storytelling series | Professional audiences want the journey, not just the announcement. |
+| **Twitter/X** | Punchy threads | Real-time updates and social proof build momentum. |
+| **Reddit** | Authentic discussion | Communities smell marketing from miles away. Value first, product second. |
+| **Hacker News** | Technical depth | Show your work. Explain the interesting problems you solved. |
 
-### Channels
+The AI understands these differences. When you generate content for Product Hunt, it creates a launch-day submission with Q&A prep. For LinkedIn, it creates a week-long series building narrative tension. For Reddit, it crafts a discussion post that leads with value.
 
-Channels are the platforms where you'll publish:
+### The Content Calendar
 
-- **Product Hunt** — Launch events
-- **LinkedIn** — Professional post series
-- **Twitter/X** — Threads and updates
-- **Reddit** — Community discussions
-- **Hacker News** — Tech community engagement
-- **Blog** — Long-form content
-- **Newsletter** — Email campaigns
-- **YouTube** — Video content
-- **And more...**
+All your content lives in one calendar. You see what's going out, when, and on which platform. No more spreadsheets. No more "wait, did we post that already?"
 
-## Creating an Arc
+The calendar view shows your entire launch at a glance. The list view lets you drill into details. Export to CSV when you need to hand off to scheduling tools.
 
-### New Arc
+## Why This Matters
 
-1. Navigate to **Growth** → **Social Outreach**
-2. Click **+ New Arc**
-3. Enter name and objective
-4. Use AI to suggest an arc structure, or create manually
+### For Product Launches
 
-### AI Arc Suggestion
+A Product Hunt launch isn't just about Product Hunt. The best launches coordinate:
+- **Pre-launch**: LinkedIn posts building anticipation, Twitter teasers, community engagement
+- **Launch day**: Product Hunt submission, Twitter thread, LinkedIn announcement
+- **Post-launch**: Reddit discussions, Hacker News submission, follow-up content
 
-Click **AI Suggest** to generate a complete arc:
+Social Outreach lets you plan all of this in one place, with AI that understands what each platform needs.
 
-- Molley analyzes your product and goals
-- Suggests phases with specific objectives
-- Recommends timing and approach
+### For Ongoing Marketing
 
-## Managing Phases
+Not every arc is a launch. You might run:
+- **Thought leadership campaigns** — Establish expertise across platforms
+- **Feature announcements** — Coordinate updates across channels
+- **Community building** — Systematic engagement across communities
 
-### Add Phases
+The arc structure works for any coordinated effort.
 
-1. Open your arc
-2. Go to the **Phases** tab
-3. Click **+ Add Phase** or use **AI Suggest**
+### For Teams
 
-### AI Phase Generation
+When multiple people are involved in marketing, coordination becomes critical. Social Outreach provides:
+- **Shared visibility** — Everyone sees the plan
+- **Content approval** — Review before publishing
+- **Phase tracking** — Know where you are in the campaign
 
-Generate phases automatically:
+## The AI Advantage
 
-1. Click **AI Suggest** in the Phases tab
-2. Specify how many phases you want
-3. Review and select phases to add
-4. AI considers your arc objective and product context
+### Content That Fits
 
-### Phase Structure
+The AI doesn't just write content — it writes content that fits each platform's culture and constraints.
 
-Each phase includes:
+Ask it to generate LinkedIn content and you get professional storytelling with hooks and calls to action. Ask for Reddit content and you get authentic, value-first discussion starters. Ask for Product Hunt and you get a polished submission with anticipated Q&A.
 
-- **Phase Number** — Order in the arc
-- **Name** — Clear identifier
-- **Description** — Goals and approach
-- **Status** — Draft, Active, Completed
+### Strategy That Makes Sense
 
-## Channel Strategy
+The AI knows your product, your audience, and your goals. When it suggests phases, it's not generic advice — it's tailored to what you're actually trying to accomplish.
 
-### Adding Channels
+When it recommends channels, it considers where your audience actually spends time, not just where everyone else posts.
 
-1. Go to the **Channels** tab
-2. Click **+ Add Channel** or use **AI Suggest**
-3. Select platform and priority
+### Speed Without Sacrifice
 
-### AI Channel Recommendations
+Generating platform-appropriate content for a multi-channel launch used to take days. Now it takes minutes. You still review and refine, but you start with something good instead of a blank page.
 
-Get AI-powered channel suggestions:
+## The Bigger Picture
 
-1. Click **AI Suggest** in the Channels tab
-2. Molley analyzes your product and audience
-3. Recommends platforms with rationale
-4. Shows fit score for each channel
+Social Outreach connects to everything else in Molley:
 
-### Platform-Specific Guidance
+- **Marketing Plans** define your strategy; Social Outreach executes it
+- **Outreach Ideas** capture campaign concepts; Social Outreach turns them into reality
+- **CRM** tracks who responds; Social Outreach drives the initial engagement
 
-Each platform has unique characteristics:
+It's not a standalone tool. It's the execution layer for your growth strategy.
 
-| Platform | Content Model | Typical Format |
-|----------|---------------|----------------|
-| **Product Hunt** | Launch Event | Single submission with tagline, description, Q&A |
-| **LinkedIn** | Post Series | Multiple posts over days/weeks |
-| **Twitter/X** | Thread | Connected sequence of short posts |
-| **Reddit** | Discussion | Single post for community engagement |
-| **Blog** | Long-form | In-depth articles |
-| **Newsletter** | Post Series | Email sequence |
+## What Success Looks Like
 
-## Content Creation
+When Social Outreach is working:
+- Your launches feel coordinated, not chaotic
+- Each platform gets content that actually works there
+- You're not scrambling to create content the night before
+- Your team knows what's going out and when
+- You can focus on engagement instead of content creation
 
-### Content Calendar
+The goal isn't to automate your marketing. It's to give you leverage — so you can be strategic about where you spend your time instead of drowning in content creation.
 
-The Content tab shows all your scheduled content:
+## Related Features
 
-- **Calendar View** — Visual monthly calendar
-- **List View** — Sortable table of all content
-
-### Adding Content Manually
-
-1. Go to the **Content** tab
-2. Click **+ Add Content**
-3. Select phase and platform
-4. Enter title, content, and scheduled date
-
-### AI Content Generation
-
-Generate platform-optimized content:
-
-1. Click **AI Suggest** in the Content tab
-2. Select the phase this content belongs to
-3. Select the target channel/platform
-4. AI generates content tailored to that platform
-
-#### Platform-Specific AI Generation
-
-The AI understands each platform's requirements:
-
-**Product Hunt:**
-- Generates tagline, description, and first comment
-- Prepares anticipated Q&A responses
-- Focuses on launch day impact
-
-**LinkedIn:**
-- Creates a series of posts
-- Professional tone with storytelling
-- Optimized for engagement
-
-**Twitter/X:**
-- Generates thread format
-- Concise, punchy messaging
-- Hashtag suggestions
-
-**Reddit/Hacker News:**
-- Single discussion post
-- Community-appropriate tone
-- Focuses on value and authenticity
-
-### Content Fields
-
-| Field | Description |
-|-------|-------------|
-| **Title** | Internal reference name |
-| **Content** | The actual post content |
-| **Platform** | Target channel |
-| **Phase** | Which phase this belongs to |
-| **Scheduled Date** | When to publish |
-| **Status** | Draft, Approved, Published |
-
-### Approving Content
-
-Review and approve content before publishing:
-
-1. Click on any content item
-2. Review the content
-3. Click **Approve** to mark ready
-
-## Exporting Content
-
-### CSV Export
-
-Export your content calendar for use with other tools:
-
-1. Go to the **Content** tab
-2. Click **Export CSV**
-3. Import into Hootsuite, Buffer, or other scheduling tools
-
-The export includes:
-- Title
-- Full content
-- Platform
-- Scheduled date
-- Status
-- Phase
-
-## Workflow Example
-
-### Product Launch Arc
-
-Here's a typical workflow for a product launch:
-
-#### 1. Create the Arc
-
-```
-Name: "Product Launch Q1 2025"
-Objective: "Launch our new feature to drive 1000 signups"
-```
-
-#### 2. Generate Phases
-
-AI suggests:
-1. **Pre-Launch Buzz** — Build anticipation (2 weeks before)
-2. **Launch Day** — Maximum visibility
-3. **Post-Launch Momentum** — Sustain interest (1 week after)
-4. **Conversion Push** — Drive signups (2 weeks after)
-
-#### 3. Add Channels
-
-AI recommends:
-- Product Hunt (primary launch)
-- LinkedIn (professional audience)
-- Twitter/X (real-time updates)
-- Hacker News (tech community)
-
-#### 4. Generate Content
-
-For each phase and channel, AI creates:
-
-**Product Hunt (Launch Day):**
-- Compelling tagline
-- Feature-focused description
-- Maker's first comment
-- Q&A preparation
-
-**LinkedIn (Pre-Launch):**
-- 5-post series building anticipation
-- Behind-the-scenes content
-- Problem/solution narrative
-
-**Twitter (Launch Day):**
-- Launch announcement thread
-- Feature highlights
-- Social proof updates
-
-#### 5. Review and Schedule
-
-- Review all generated content
-- Approve items ready to publish
-- Export to your scheduling tool
-
-## Best Practices
-
-### 1. Start with Strategy
-
-Define your arc objective clearly:
-
-- What outcome do you want?
-- Who is your audience?
-- What's your timeline?
-
-### 2. Phase Your Approach
-
-Don't blast everything at once:
-
-- Build anticipation before launch
-- Concentrate effort on launch day
-- Sustain momentum after
-
-### 3. Tailor to Each Platform
-
-Let AI help you adapt:
-
-- Product Hunt needs launch-day focus
-- LinkedIn rewards storytelling
-- Twitter needs brevity
-- Reddit values authenticity
-
-### 4. Review AI Content
-
-AI generates great starting points:
-
-- Review for accuracy
-- Add personal touches
-- Ensure brand voice consistency
-
-### 5. Coordinate Timing
-
-Align content across platforms:
-
-- Launch day content should be synchronized
-- Pre-launch builds to launch day
-- Post-launch references launch success
-
-## Integration
-
-### With Marketing Plans
-
-Connect arcs to your broader strategy:
-
-- Link arcs to marketing plan objectives
-- Track execution against plans
-
-### With Outreach Ideas
-
-Turn ideas into arcs:
-
-- Develop outreach ideas into full campaigns
-- Use arc structure to execute ideas
-
-### With CRM
-
-Track results:
-
-- Connect leads to campaigns
-- Measure arc effectiveness
-
-## Next Steps
-
-- [Outreach Ideas](/features/outreach-ideas) — Brainstorm campaigns
-- [Outreach Tools](/features/outreach-tools) — Create templates
-- [Marketing Plans](/features/marketing-plans) — Document strategy
-- [CRM](/features/crm) — Track customers
+- [Outreach Ideas](/features/outreach-ideas) — Where campaign concepts are born
+- [Marketing Plans](/features/marketing-plans) — The strategy that guides your arcs
+- [Outreach Tools](/features/outreach-tools) — Templates for direct outreach
+- [CRM](/features/crm) — Track who engages with your campaigns

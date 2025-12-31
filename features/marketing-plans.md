@@ -1,283 +1,132 @@
 # Marketing Plans
 
-Marketing Plans provide a space to document your marketing strategy, campaigns, and go-to-market plans.
+## The Problem
 
-## Overview
+Strategy without documentation is just vibes.
 
-Marketing Plans help you:
+You know what you're trying to do. Your co-founder knows. Maybe your head of marketing knows. But when someone asks "what's our go-to-market strategy?" — can anyone point to a document?
 
-- **Document strategy** in one place
-- **Align your team** on marketing direction
-- **Plan campaigns** with clear objectives
-- **Track execution** against plans
+Most early-stage teams operate on implicit strategy. The plan lives in conversations, Slack threads, and people's heads. This works until:
 
-## Creating Plans
+- **Someone new joins** and has to piece together the strategy from context clues
+- **Priorities conflict** and there's no source of truth to resolve them
+- **Time passes** and you forget why you made certain decisions
+- **Execution drifts** because no one remembers what the plan actually was
 
-### New Plan
+The result? Teams that feel aligned but aren't. Effort that doesn't compound. Strategy that exists in theory but not in practice.
 
-1. Navigate to **Growth** → **Marketing Plans**
-2. Click **+ New Plan**
-3. Enter title and description
-4. Start documenting
+## The Solution
 
-### Plan Types
+Marketing Plans is where strategy becomes explicit.
 
-Create plans for:
+Not a 50-page document no one reads. Not a slide deck that gets outdated. A living document that captures what you're trying to do, why, and how — in enough detail to actually guide decisions.
 
-- **Annual marketing strategy**
-- **Product launch plans**
-- **Campaign plans**
-- **Channel strategies**
-- **Content calendars**
+## How It Works
 
-## Plan Structure
+### Strategy as a Document
 
-Marketing Plans use the same rich editor as other Molley documents.
+A marketing plan answers the fundamental questions:
 
-### Suggested Structure
+- **What are we trying to achieve?** — Specific, measurable objectives
+- **Who are we trying to reach?** — Target audience with real detail
+- **What's our message?** — Positioning and value proposition
+- **How will we reach them?** — Channels and tactics
+- **How will we know it's working?** — Success metrics
 
-```markdown
-# Marketing Plan: [Name]
+When these answers are written down, everyone can reference them. Decisions become easier because you have criteria to evaluate against.
 
-## Executive Summary
-Brief overview of the plan
+### Living Documents
 
-## Objectives
-- Objective 1: [Specific, measurable goal]
-- Objective 2: [Specific, measurable goal]
+Marketing plans aren't set-and-forget. They evolve as you learn.
 
-## Target Audience
-### Primary Persona
-- Demographics
-- Pain points
-- Goals
+The rich editor lets you update plans as reality changes. Add notes about what's working. Revise tactics that aren't. Keep the document current so it remains useful.
 
-### Secondary Persona
-- Demographics
-- Pain points
-- Goals
+### AI-Assisted Planning
 
-## Strategy
-### Positioning
-How we position against competitors
+Starting from a blank page is hard. The AI helps you:
 
-### Messaging
-Key messages and value propositions
+- **Draft initial plans** based on your product and goals
+- **Identify gaps** in existing plans
+- **Suggest tactics** you might not have considered
+- **Refine messaging** to be clearer and more compelling
 
-### Channels
-- Channel 1: Strategy and tactics
-- Channel 2: Strategy and tactics
+The AI knows your product, your audience, and your competitive context. Its suggestions are specific to your situation, not generic marketing advice.
 
-## Tactics
-### Q1
-- Tactic 1
-- Tactic 2
+## Why This Matters
 
-### Q2
-- Tactic 1
-- Tactic 2
+### Alignment Requires Artifacts
 
-## Budget
-| Category | Allocation |
-|----------|------------|
-| Content | $X |
-| Paid Ads | $X |
-| Events | $X |
+You can't align on something that doesn't exist. When strategy is implicit, everyone has their own interpretation. They're all slightly different. No one realizes it until there's a conflict.
 
-## Timeline
-Key milestones and deadlines
+Written plans create shared understanding. Not because writing is magic, but because the act of writing forces clarity. Vague ideas become specific commitments.
 
-## Success Metrics
-- KPI 1: Target
-- KPI 2: Target
+### Strategy Guides Tactics
 
-## Risks and Mitigation
-Potential challenges and how to address them
-```
+Without a plan, every tactic is evaluated in isolation. "Should we do a webinar?" becomes a debate about webinars in general, not whether this webinar supports your strategy.
 
-## AI Assistance
+With a plan, the question becomes: "Does this webinar help us achieve our objectives with our target audience?" The plan provides the framework for decision-making.
 
-### Generate Plans
+### Learning Requires Memory
 
-Ask Molley to help create plans:
+If you don't document what you planned, you can't evaluate whether it worked. You can't distinguish between "the strategy was wrong" and "we didn't execute the strategy."
 
-- "Create a marketing plan for our product launch"
-- "Suggest a content marketing strategy"
-- "Draft a go-to-market plan for [market]"
+Plans create accountability. Not in a punitive sense, but in a learning sense. You can look back and understand what you were trying to do, what actually happened, and what to do differently.
 
-### Improve Plans
+## The AI Advantage
 
-Enhance existing plans:
+### Plans That Make Sense
 
-- "What's missing from this marketing plan?"
-- "Suggest additional channels to consider"
-- "Help me define better success metrics"
+Generic marketing plan templates are useless. "Define your target audience" — thanks, very helpful.
 
-### Context Awareness
+Molley helps you create plans that are specific to your situation. It knows your product, your market, your constraints. When it suggests a go-to-market approach, it's tailored to what you're actually selling and who you're actually selling to.
 
-When helping with marketing plans, Molley knows:
+### Gap Analysis
 
-- Your product and positioning
-- Your target audience
-- Your competitive landscape
-- Your company's resources and constraints
+It's hard to see what's missing from your own plan. You're too close to it.
 
-## Plan Templates
+The AI can review your plan and identify gaps:
+- "You haven't defined success metrics for this channel"
+- "Your messaging doesn't address this common objection"
+- "This timeline is aggressive given your resources"
 
-### Product Launch Plan
+Fresh eyes, even artificial ones, catch things you miss.
 
-```markdown
-# Product Launch: [Product Name]
+### Rapid Iteration
 
-## Launch Date
-[Date]
+Rewriting a marketing plan is tedious. The AI makes iteration fast.
 
-## Goals
-- [Awareness goal]
-- [Adoption goal]
-- [Revenue goal]
+- "Adjust this plan for a different market segment"
+- "Expand the tactics section with more detail"
+- "Simplify this for a board presentation"
 
-## Pre-Launch (4 weeks before)
-- [ ] Finalize messaging
-- [ ] Create launch assets
-- [ ] Brief team
-- [ ] Set up tracking
+You can explore different approaches without starting from scratch each time.
 
-## Launch Week
-- [ ] Press release
-- [ ] Email announcement
-- [ ] Social campaign
-- [ ] Community posts
+## The Bigger Picture
 
-## Post-Launch (4 weeks after)
-- [ ] Monitor metrics
-- [ ] Gather feedback
-- [ ] Iterate messaging
-- [ ] Plan next phase
-```
+Marketing Plans sits at the top of the execution hierarchy:
 
-### Content Strategy
+1. **Marketing Plans** — Define strategy and objectives
+2. **Outreach Ideas** — Generate tactical concepts
+3. **Social Outreach** — Plan and schedule campaigns
+4. **Outreach Tools** — Enable consistent execution
+5. **CRM** — Track results and relationships
 
-```markdown
-# Content Strategy: [Quarter/Year]
+Strategy flows down. Results flow up. The plan is what connects them.
 
-## Content Pillars
-1. [Topic area 1]
-2. [Topic area 2]
-3. [Topic area 3]
+## What Success Looks Like
 
-## Content Types
-- Blog posts: [frequency]
-- Videos: [frequency]
-- Podcasts: [frequency]
-- Social: [frequency]
+When Marketing Plans is working:
+- New team members can understand your strategy by reading a document
+- Tactical decisions reference the plan, not just intuition
+- You can explain why you're doing what you're doing
+- Strategy evolves based on evidence, not just opinions
+- The gap between what you planned and what you did is visible
 
-## Distribution
-- Owned: Blog, email, social
-- Earned: PR, guest posts
-- Paid: Promoted content
+The goal isn't to create bureaucracy. It's to make your thinking explicit so it can be shared, evaluated, and improved.
 
-## Calendar
-| Week | Topic | Type | Channel |
-|------|-------|------|---------|
-| 1 | [Topic] | Blog | Website |
-| 2 | [Topic] | Video | YouTube |
-```
+## Related Features
 
-## Collaboration
-
-### Team Alignment
-
-Share plans with your team:
-
-- All plans visible to team members
-- Comments for feedback
-- Version history for changes
-
-### Assignments
-
-Assign sections or tasks:
-
-- Who owns each channel?
-- Who's responsible for execution?
-
-### Reviews
-
-Get feedback before finalizing:
-
-- Share draft for review
-- Collect comments
-- Iterate and finalize
-
-## Best Practices
-
-### 1. Start with Objectives
-
-Clear goals guide everything:
-
-- What are you trying to achieve?
-- How will you measure success?
-- What's the timeline?
-
-### 2. Know Your Audience
-
-Deep audience understanding:
-
-- Who are they?
-- What do they care about?
-- Where do they spend time?
-- What motivates action?
-
-### 3. Be Specific
-
-Vague plans don't get executed:
-
-- Specific tactics, not just strategies
-- Clear owners and deadlines
-- Measurable success criteria
-
-### 4. Plan for Iteration
-
-Marketing is iterative:
-
-- Build in review points
-- Plan to test and learn
-- Be ready to adjust
-
-### 5. Connect to Business Goals
-
-Marketing supports business objectives:
-
-- How does this drive revenue?
-- How does this support growth?
-- What's the ROI expectation?
-
-## Integration
-
-### With Outreach Ideas
-
-Connect tactics to plans:
-
-- Link outreach ideas to marketing plans
-- Show how ideas support strategy
-
-### With Outreach Tools
-
-Execute with templates:
-
-- Create templates aligned to plan messaging
-- Ensure consistency
-
-### With CRM
-
-Track results:
-
-- Measure campaign effectiveness
-- Connect leads to campaigns
-
-## Next Steps
-
-- [Social Outreach](/features/social-outreach) — Plan multi-platform campaigns
-- [Outreach Ideas](/features/outreach-ideas) — Brainstorm campaigns
-- [Outreach Tools](/features/outreach-tools) — Create templates
-- [CRM](/features/crm) — Track customers
+- [Social Outreach](/features/social-outreach) — Execute campaigns across platforms
+- [Outreach Ideas](/features/outreach-ideas) — Generate tactical concepts
+- [Outreach Tools](/features/outreach-tools) — Templates for consistent execution
+- [CRM](/features/crm) — Track results and relationships

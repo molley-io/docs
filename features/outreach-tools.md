@@ -1,209 +1,123 @@
 # Outreach Tools
 
-Outreach Tools provide templates and automation to help you reach potential customers effectively.
+## The Problem
 
-## Overview
+Direct outreach is a numbers game with a quality problem.
 
-Outreach Tools help you:
+You need to reach hundreds of people, but each message needs to feel personal. Copy-paste the same template and you sound like spam. Write every message from scratch and you'll never scale.
 
-- **Create templates** for consistent messaging
-- **Personalize at scale** with merge fields
-- **Track effectiveness** of different approaches
-- **Save time** with reusable content
+Most teams oscillate between two failure modes:
+- **Over-templated** — Every message sounds robotic. Response rates crater.
+- **Over-customized** — Messages are great but you can only send ten a day.
 
-## Template Types
+And then there's the consistency problem. Different team members write different messages. Your best performer's approach never spreads. Your worst performer's mistakes keep repeating.
 
-### Email Templates
+## The Solution
 
-Create templates for:
+Outreach Tools gives you templates that scale without losing the human touch.
 
-- Cold outreach
-- Follow-ups
-- Meeting requests
-- Product announcements
-- Customer success
+The key insight: personalization doesn't mean writing from scratch. It means having a strong foundation that you customize in the right places.
 
-### LinkedIn Templates
+## How It Works
 
-Templates for:
+### Templates with Intention
 
-- Connection requests
-- InMail messages
-- Post content
-- Comment responses
+A good template isn't just fill-in-the-blank. It's a proven structure that works.
 
-### Other Channels
+Each template captures:
+- **The hook** — What gets attention in the first line
+- **The relevance** — Why this person, why now
+- **The value** — What's in it for them
+- **The ask** — A clear, low-friction next step
 
-- Twitter/X messages
-- Community posts
-- Partnership outreach
+The AI helps you build templates that have all four elements, tailored to your product and audience.
 
-## Creating Templates
+### Personalization That Matters
 
-### New Template
+Merge fields like `{{firstName}}` are table stakes. Real personalization comes from:
 
-1. Navigate to **Growth** → **Outreach Tools**
-2. Click **+ New Template**
-3. Select template type
-4. Enter content with merge fields
+- **Relevance signals** — Why are you reaching out to *this* person?
+- **Timing hooks** — What's happening in their world right now?
+- **Specific value** — What problem can you solve for *them*?
 
-### Merge Fields
+Templates create space for these elements. You're not writing from scratch, but you're not sending identical messages either.
 
-Personalize templates with variables:
+### Channel-Specific Craft
 
-| Field | Description | Example |
-|-------|-------------|---------|
-| `{{firstName}}` | Contact's first name | "Hi Sarah" |
-| `{{company}}` | Company name | "at Acme Corp" |
-| `{{role}}` | Job title | "as a Product Manager" |
-| `{{custom}}` | Custom field | Any value |
+Email, LinkedIn, and Twitter aren't interchangeable. Each has different:
+- **Length expectations** — 100 words vs. 300 characters
+- **Tone norms** — Professional vs. casual
+- **Response patterns** — When and how people reply
 
-### Example Template
+Templates encode this knowledge. Your LinkedIn connection request doesn't read like a cold email because it was built for LinkedIn.
 
-```
-Subject: Quick question about {{company}}'s product roadmap
+## Why This Matters
 
-Hi {{firstName}},
+### Consistency Compounds
 
-I noticed {{company}} recently launched [specific feature]. 
-As a {{role}}, you're probably thinking about [relevant challenge].
+When your whole team uses the same templates, you learn faster. You can see what's working across everyone's outreach, not just individual efforts.
 
-We've helped similar companies [specific benefit]. Would you 
-be open to a 15-minute call to explore if we could help?
+Good templates spread best practices automatically. When someone figures out a better hook, it goes into the template and everyone benefits.
 
-Best,
-[Your name]
-```
+### Quality at Scale
 
-## AI Assistance
+The math is simple: if you can send 50 personalized messages a day instead of 10, you'll have more conversations. If those messages are also better because they're built on proven structures, your conversion rate goes up too.
 
-### Generate Templates
+Templates don't replace skill — they amplify it. Your best instincts get encoded into reusable assets.
 
-Ask Molley to create templates:
+### Iteration Becomes Possible
 
-- "Write a cold email template for product managers"
-- "Create a LinkedIn connection request for startup founders"
-- "Generate a follow-up sequence for demo no-shows"
+When outreach is ad-hoc, you can't improve systematically. Every message is a one-off.
 
-### Improve Templates
+With templates, you can test. Change the hook, measure response rates, update the template. Your outreach gets better over time because you're building on what works.
 
-Enhance existing templates:
+## The AI Advantage
 
-- "Make this more conversational"
-- "Add a stronger call to action"
-- "Shorten this to under 100 words"
+### Templates That Sound Like You
 
-### Context Awareness
+Generic templates sound generic. "I hope this email finds you well" — delete.
 
-When generating outreach, Molley knows:
+Molley builds templates based on your product, your positioning, your voice. The AI knows what you're selling and who you're selling to, so the templates feel authentic to your brand.
 
-- Your product's value proposition
-- Your target audience
-- Your company's tone and style
-- Industry context
+### Instant Variations
 
-## Template Organization
+Need a template for a different audience? Different stage of the funnel? Different channel?
 
-### Categories
+Instead of starting from scratch, ask the AI to adapt what's working. Take your best cold email and turn it into a LinkedIn message. Take your enterprise template and adjust it for startups.
 
-Organize templates by:
+### Continuous Improvement
 
-- **Channel** — Email, LinkedIn, etc.
-- **Stage** — Cold, warm, follow-up
-- **Audience** — By persona or industry
-- **Campaign** — By initiative
+The AI can analyze your templates and suggest improvements:
+- "This opening is weak — here are three alternatives"
+- "Your call to action is buried — move it up"
+- "This is too long for LinkedIn — here's a tighter version"
 
-### Tags
+You're not guessing what might work. You're getting specific, actionable feedback.
 
-Add tags for easy filtering:
+## The Bigger Picture
 
-- `#cold-outreach`
-- `#follow-up`
-- `#enterprise`
-- `#startup`
+Outreach Tools connects to the rest of your growth stack:
 
-## Using Templates
+- **Outreach Ideas** generate campaign concepts; templates make them executable
+- **Social Outreach** plans multi-platform campaigns; templates ensure consistency
+- **CRM** tracks contacts; templates help you reach them effectively
 
-### Quick Use
+Templates are the bridge between strategy and execution. Ideas become campaigns. Campaigns become messages. Messages become conversations.
 
-1. Open a template
-2. Click **Copy**
-3. Paste into your email/message client
-4. Replace merge fields manually
+## What Success Looks Like
 
-### With CRM
+When Outreach Tools is working:
+- Your team sends more messages without sacrificing quality
+- Response rates improve because messages are better structured
+- New team members ramp up faster with proven templates
+- You can actually measure what's working and iterate
+- Outreach feels systematic, not chaotic
 
-When using with the CRM:
+The goal isn't to automate away the human element. It's to free up your time for the parts that actually require human judgment — the personalization, the relationship building, the creative problem-solving.
 
-1. Select contacts
-2. Choose template
-3. Merge fields auto-populate
-4. Review and send
+## Related Features
 
-## Tracking
-
-### Template Performance
-
-Track which templates work:
-
-- Open rates (if using email tracking)
-- Response rates
-- Conversion to meetings
-
-### A/B Testing
-
-Test variations:
-
-1. Create template variants
-2. Use each with similar audiences
-3. Compare results
-4. Iterate on winners
-
-## Best Practices
-
-### 1. Keep It Short
-
-Respect your recipient's time:
-
-- Cold emails: 50-125 words
-- LinkedIn messages: Under 300 characters
-- Clear, single call to action
-
-### 2. Personalize Meaningfully
-
-Go beyond just the name:
-
-- Reference specific company news
-- Mention relevant challenges
-- Show you've done research
-
-### 3. Provide Value
-
-Lead with value, not asks:
-
-- Share relevant insights
-- Offer helpful resources
-- Make it about them, not you
-
-### 4. Test and Iterate
-
-Continuously improve:
-
-- Track what works
-- Test new approaches
-- Update based on results
-
-### 5. Stay Compliant
-
-Follow regulations:
-
-- Include unsubscribe options
-- Respect opt-outs
-- Follow GDPR/CAN-SPAM
-
-## Next Steps
-
-- [Social Outreach](/features/social-outreach) — Plan multi-platform campaigns
-- [Outreach Ideas](/features/outreach-ideas) — Plan campaigns
-- [Marketing Plans](/features/marketing-plans) — Strategy documentation
-- [CRM](/features/crm) — Manage contacts
+- [Social Outreach](/features/social-outreach) — Coordinate campaigns across platforms
+- [Outreach Ideas](/features/outreach-ideas) — Where campaign concepts are born
+- [Marketing Plans](/features/marketing-plans) — Strategy that guides your outreach
+- [CRM](/features/crm) — Track contacts and conversations

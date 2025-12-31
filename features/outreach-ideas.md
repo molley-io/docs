@@ -1,244 +1,134 @@
 # Outreach Ideas
 
-Outreach Ideas is where you brainstorm, plan, and refine your marketing and sales campaigns with AI assistance.
+## The Problem
 
-## Overview
+Good marketing ideas die in three ways:
 
-Outreach Ideas helps you:
+1. **They never get written down** — You have a flash of insight in the shower, at lunch, during a meeting. By the time you sit down to act on it, it's gone.
 
-- **Brainstorm campaigns** with AI assistance
-- **Organize strategies** by channel and audience
-- **Refine messaging** before execution
-- **Track status** from idea to completion
+2. **They sit in isolation** — You capture the idea, but it lives in a note somewhere, disconnected from everything else. No context. No development. No action.
 
-## Creating Ideas
+3. **They lack depth** — "We should do a LinkedIn campaign" isn't an idea. It's a direction. Without the who, what, why, and how, it goes nowhere.
 
-### New Idea
+The result? Teams that feel like they're always starting from scratch. Campaigns that lack strategic coherence. Good instincts that never become good execution.
 
-1. Navigate to **Growth** → **Outreach Ideas**
-2. Click **+ New Idea**
-3. Enter title and description
-4. Select category and status
+## The Solution
 
-### Idea Fields
+Outreach Ideas is where campaign concepts are born, developed, and prepared for execution.
 
-| Field | Description |
-|-------|-------------|
-| **Title** | Campaign or idea name |
-| **Description** | Detailed plan (rich text) |
-| **Category** | Channel or type |
-| **Status** | Draft, Review, Approved, Active, Completed |
-| **Target Audience** | Who this targets |
+It's not a task list. It's not a content calendar. It's the thinking space where rough instincts become actionable plans.
 
-### Categories
+## How It Works
 
-Organize by channel:
+### Capture Everything
 
-- **Cold Email** — Direct email outreach
-- **LinkedIn** — Professional network campaigns
-- **Content Marketing** — Blog, social, SEO
-- **Events** — Webinars, conferences, meetups
-- **Partnerships** — Co-marketing, integrations
+Every outreach idea gets a home. Whether it's a fully-formed campaign concept or a half-baked notion that might be something, capture it.
 
-## AI-Powered Brainstorming
+The AI helps you develop ideas at any stage:
+- **Rough concept?** Ask it to flesh out the strategy
+- **Clear goal but unclear tactics?** Ask for specific approaches
+- **Good idea but wrong audience?** Ask it to reframe for different segments
 
-### Generate Ideas
+### Develop with Context
 
-Click **AI Assist** to brainstorm:
+When you ask Molley to help with an outreach idea, it doesn't give generic marketing advice. It knows:
 
-- "Suggest outreach ideas for reaching product managers"
-- "What content marketing ideas would work for our audience?"
-- "Generate LinkedIn campaign ideas for our launch"
+- What your product actually does
+- Who your target audience is
+- What positioning you've established
+- What's worked (and hasn't) before
 
-### Expand Ideas
+So when you say "help me plan a campaign for product managers," the AI responds with ideas specific to *your* product and *your* product manager audience.
 
-Develop rough ideas into plans:
+### Move from Idea to Action
 
-- "Turn this into a detailed campaign plan"
-- "Suggest messaging angles for this idea"
-- "What's the best timing for this campaign?"
+Ideas progress through stages:
 
-### Context Awareness
+| Stage | What's Happening |
+|-------|------------------|
+| **Draft** | Raw capture. Developing the concept. |
+| **In Review** | Team is evaluating. Getting feedback. |
+| **Approved** | Ready to execute. Details finalized. |
+| **Active** | Campaign is running. |
+| **Completed** | Done. Time to capture learnings. |
 
-When generating ideas, Molley knows:
+This isn't bureaucracy — it's clarity. Everyone knows which ideas are still forming, which are ready to go, and which are already in motion.
 
-- Your product and value proposition
-- Your target audience
-- Your company's positioning
-- Competitive landscape
+## Why This Matters
 
-This means suggestions are tailored to your specific situation.
+### Ideas Need Development Time
 
-## Idea Details
+The best campaigns aren't created in a single sitting. They evolve. You have an initial concept, you think about it, you refine it, you get feedback, you refine again.
 
-Click any idea to view and edit:
+Outreach Ideas gives that process a place to happen. Ideas don't have to be perfect when you capture them. They just have to exist somewhere you can find them and develop them.
 
-### Description
+### Strategy Needs Coherence
 
-Rich text editor for detailed planning:
+Random acts of marketing don't compound. A LinkedIn post here, an email campaign there, a webinar sometime — it's activity without direction.
 
-- Campaign objectives
+When ideas live in one place, you start to see patterns. You notice gaps. You can ask: "Do these ideas actually support our goals? Are we reaching the right people? Is there a story connecting all of this?"
+
+### Teams Need Alignment
+
+When marketing ideas live in someone's head (or worse, scattered across Slack, email, and random docs), coordination is impossible.
+
+Outreach Ideas makes the thinking visible. Everyone can see what's being considered, what's approved, what's in progress. No more "I didn't know we were doing that" moments.
+
+## The AI Advantage
+
+### Brainstorming That Actually Helps
+
+Generic brainstorming produces generic ideas. "You could try influencer marketing" isn't useful if you don't know which influencers, what message, or why it would work for your specific situation.
+
+Molley's suggestions are grounded in your context. It knows your product, your audience, your positioning. So its ideas are starting points you can actually use, not generic frameworks you have to translate.
+
+### From Concept to Plan
+
+The gap between "we should do X" and "here's exactly how we'll do X" is where most ideas die.
+
+The AI helps bridge that gap. Take a rough concept and ask it to develop:
+- Specific messaging angles
 - Target audience details
-- Messaging strategy
 - Timeline and milestones
 - Success metrics
+- Potential obstacles
 
-### Example Structure
+You still make the decisions. But you're not starting from a blank page.
 
-```markdown
-# Product Hunt Pre-Launch Campaign
+### Pattern Recognition
 
-## Objective
-Build community presence before Product Hunt launch
+Over time, you build a library of ideas — some executed, some not. The AI can help you see patterns:
+- What types of campaigns have worked?
+- What audiences respond best?
+- What messaging themes resonate?
 
-## Strategy
-### Phase 1: Community Building (Weeks 1-2)
-- Join relevant communities
-- Provide value without promoting
-- Build relationships
+Your past thinking becomes fuel for future strategy.
 
-### Phase 2: Content Release (Week 3)
-- Publish educational content
-- Share in communities organically
-- Build authority
+## The Bigger Picture
 
-### Phase 3: Soft Introduction (Week 4)
-- Mention upcoming launch
-- Gather early supporters
-- Build launch day momentum
+Outreach Ideas is the beginning of the execution pipeline:
 
-## Success Metrics
-- 100 community connections
-- 50 early supporters
-- 500 Product Hunt followers
-```
+1. **Outreach Ideas** — Concepts are born and developed
+2. **Social Outreach** — Multi-platform campaigns are planned and scheduled
+3. **Outreach Tools** — Templates enable consistent execution
+4. **CRM** — Results are tracked and relationships managed
 
-## Status Workflow
+Ideas don't exist in isolation. They flow into action.
 
-### Statuses
+## What Success Looks Like
 
-| Status | Description |
-|--------|-------------|
-| **Draft** | Initial brainstorming |
-| **In Review** | Being evaluated |
-| **Approved** | Ready to execute |
-| **Active** | Currently running |
-| **Completed** | Finished |
+When Outreach Ideas is working:
+- You never lose a good idea because you didn't write it down
+- Ideas get better over time instead of sitting stale
+- Your team knows what's being considered and what's approved
+- Campaigns feel connected to strategy, not random
+- You can look back and see what you've learned
 
-### Moving Ideas Forward
+The goal isn't to have more ideas. It's to have better ideas that actually get executed.
 
-1. **Draft** — Brainstorm and develop
-2. **In Review** — Get team feedback
-3. **Approved** — Finalize details
-4. **Active** — Execute the campaign
-5. **Completed** — Review results
+## Related Features
 
-## Organization
-
-### Filtering
-
-Find ideas quickly:
-
-- Filter by status
-- Filter by category
-- Search by keyword
-
-### Sorting
-
-Order by:
-
-- Created date
-- Last updated
-- Status
-- Category
-
-## Collaboration
-
-### Comments
-
-Discuss ideas with your team:
-
-- Add feedback
-- Suggest improvements
-- Ask questions
-
-### Assignments
-
-Assign ownership:
-
-- Who's responsible for execution?
-- Who needs to review?
-
-## Best Practices
-
-### 1. Start with Goals
-
-Define success before tactics:
-
-- What are you trying to achieve?
-- How will you measure success?
-- What's the timeline?
-
-### 2. Know Your Audience
-
-Be specific about who you're targeting:
-
-- Job titles and roles
-- Company size and industry
-- Pain points and goals
-- Where they spend time
-
-### 3. Plan the Full Funnel
-
-Think beyond first touch:
-
-- Awareness — How do they find you?
-- Interest — What makes them curious?
-- Consideration — Why choose you?
-- Conversion — What's the ask?
-
-### 4. Test Before Scaling
-
-Start small:
-
-- Test messaging with a small audience
-- Measure results
-- Iterate before scaling
-
-### 5. Document Learnings
-
-Capture what works:
-
-- What messaging resonated?
-- Which channels performed?
-- What would you do differently?
-
-## Integration
-
-### With Outreach Tools
-
-Turn ideas into templates:
-
-- Create templates from approved messaging
-- Use templates in execution
-
-### With Marketing Plans
-
-Connect to strategy:
-
-- Link ideas to marketing plans
-- Show how tactics support strategy
-
-### With CRM
-
-Track execution:
-
-- Apply campaigns to contacts
-- Measure conversion
-
-## Next Steps
-
-- [Social Outreach](/features/social-outreach) — Plan multi-platform campaigns
-- [Outreach Tools](/features/outreach-tools) — Create templates
-- [Marketing Plans](/features/marketing-plans) — Document strategy
-- [CRM](/features/crm) — Manage contacts
+- [Social Outreach](/features/social-outreach) — Turn ideas into coordinated campaigns
+- [Marketing Plans](/features/marketing-plans) — The strategy that guides your ideas
+- [Outreach Tools](/features/outreach-tools) — Templates for execution
+- [CRM](/features/crm) — Track results and relationships
