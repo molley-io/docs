@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Molley
   text: Your Product Development Hub
-  tagline: Research, ideate, build, and grow — all in one place. Powered by AI that understands your business.
+  tagline: Research, ideate, build, collaborate, network, and grow — all in one place. Powered by AI that understands your business.
   image:
     src: /logo.png
     alt: Molley

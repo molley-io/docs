@@ -1,6 +1,6 @@
 # Features Overview
 
-Molley brings together all the tools you need to research, build, and grow your product — in one connected platform.
+We’re the creators of Molley - developers, team leads, PMs, sales, and marketers — who spent the last 15 years battling tool bloat, and in 2025 decided to build a single, connected platform for ourselves that replaces many tools with one, bringing together everything you need to research, ideate, build, and grow your product.
 
 ## Toolbox
 
