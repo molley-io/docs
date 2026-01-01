@@ -48,5 +48,3 @@ Molley is designed for **solo entrepreneurs**, **product managers**, **sales tea
 - **Collect** feedback to continuously improve
 
 Whether you're a one-person startup or a growing team, Molley scales with your needs while keeping everything connected and AI-powered.
-
-The creators of Molley are themselves developers, team leads, PMs, sales, and marketers. They who spent the last 15 years battling tool bloat, and in 2025 decided to build a single, connected platform for that replaces many tools with one, bringing together everything you need to research, ideate, build, and grow your product. It started as a closed tool for a closed group collection of freelancers and in 2026 is now saying hello to the world.
